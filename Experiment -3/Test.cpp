@@ -72,3 +72,6 @@ int main(){
 
     return 0;
 }
+
+
+// TIME COMPLEXITY OF SAFE STATE - O(N)
